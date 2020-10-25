@@ -10,7 +10,7 @@ class DBController
     protected $database = "mvc";
 
     // connection property
-    public $con = null;
+    public  $con = null;
 
     // call constructor
     public function __construct()

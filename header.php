@@ -17,11 +17,40 @@
 
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css">
-
+    <link rel="stylesheet" href="./assets/theme/css/material-design-iconic-font.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="./assets/theme/css/font-awesome.min.css">
+    <!-- Font Awesome Stars-->
+    <link rel="stylesheet" href="./assets/theme/css/fontawesome-stars.css">
+    <!-- Meanmenu CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/meanmenu.css">
+    <!-- owl carousel CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/owl.carousel.min.css">
+    <!-- Slick Carousel CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/slick.css">
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/animate.css">
+    <!-- Jquery-ui CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/jquery-ui.min.css">
+    <!-- Venobox CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/venobox.css">
+    <!-- Nice Select CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/nice-select.css">
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/magnific-popup.css">
+    <!-- Bootstrap V4.1.3 Fremwork CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/bootstrap.min.css">
+    <!-- Helper CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/helper.css">
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="./assets/theme/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="./assets/theme/css/responsive.css">
     <?php
     // require functions.php file
-    require ('functions.php');
+    require_once ('functions.php');
     ?>
+
 
 </head>
 <body>
@@ -31,8 +60,8 @@
     <div class="strip d-flex justify-content-between px-4 py-1 bg-light">
         <p class="font-rale font-size-12 text-black-50 m-0">Jordan Calderon 430-985 Eleifend St. Duluth Washington 92611 (427) 930-5255</p>
         <div class="font-rale font-size-14">
-            <a href="#" class="px-3 border-right border-left text-dark">Login</a>
-            <a href="#" class="px-3 border-right text-dark">Whishlist (0)</a>
+            <a href="http://127.0.0.1/webmobi/login.php" class="px-3 border-right border-left text-dark">Login</a>
+            <a href="http://127.0.0.1/webmobi/register.php" class="px-3 border-right text-dark">Register</a>
         </div>
     </div>
 

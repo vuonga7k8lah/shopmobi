@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="334a2a5b-6c72-408f-9411-ac0b609b1300" name="Default Changelist" comment="" />
+    <list default="true" id="334a2a5b-6c72-408f-9411-ac0b609b1300" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/Material-Design-Iconic-Fontd1f1.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/Material-Design-Iconic-Fontd1f1.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/Material-Design-Iconic-Fontd1f1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/fontawesome-webfont3e6e.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/fontawesome-webfont3e6e.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/fontawesome-webfont3e6e.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/fontawesome-webfont3e6e.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/fontawesome-webfont3e6e.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/ajax-mail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.barrating.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.meanmenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.mixitup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/vendor/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/venobox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/DBController.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/DBController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/product.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +50,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j9Ei1YinqAAIet95EP9n06vObE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +64,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xamp\htdocs\webmobi\assets\theme" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xamp\htdocs\webmobi\assets\theme" />
+      <recent name="E:\xamp\htdocs\webmobi\assets" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,11 +84,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603208030758</updated>
-      <workItem from="1603208032560" duration="72000" />
+      <workItem from="1603208032560" duration="786000" />
+      <workItem from="1603243996595" duration="28000" />
+      <workItem from="1603542125992" duration="13000" />
+      <workItem from="1603552376448" duration="3337000" />
+      <workItem from="1603580038414" duration="6756000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="121" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603585916007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="121" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603585916007" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1603542137643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603542137643" />
+    <state x="505" y="197" key="NewPhpClassDialog" timestamp="1603580607288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="197" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1603580607288" />
+    <state x="518" y="294" key="NewPhpFileDialog" timestamp="1603554453609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="294" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603554453609" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1603243996921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1603243996921" />
   </component>
 </project>
